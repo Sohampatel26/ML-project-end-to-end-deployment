@@ -6,7 +6,7 @@ venv/
 .DS_Store/
 # C extensions
 *.so
-
+artifacts
 # Distribution / packaging
 .Python
 build/
