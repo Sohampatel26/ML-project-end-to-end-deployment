@@ -5,5 +5,5 @@ dill
 scikit-learn
 matplotlib
 catboost
-xgboost
+xgboost==2.1.0
 -e .
